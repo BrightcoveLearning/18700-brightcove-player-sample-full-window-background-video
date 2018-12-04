@@ -1,3 +1,4 @@
+// +++ Plugin version of the script +++
 videojs.registerPlugin('backgroundPlaylist', function() {
   var myPlayer = this;
 
